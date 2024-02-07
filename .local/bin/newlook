@@ -2,6 +2,9 @@
 
 wall=$(find /home/AliFarooq/wallpapers -type f -name "*.jpg" -o -name "*.png" | shuf -n 1)
 
+#send the selected wallpaper to a file
+echo "$wall" > /home/AliFarooq/.local/wall_name.txt
+
 #setting the wallpaper
 xwallpaper --zoom ${wall}
 

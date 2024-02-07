@@ -101,3 +101,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+current_wall=$(cat /home/AliFarooq/.local/wall_name.txt)
+
+wal -c
+wal -q -i ${current_wall} &> /dev/null

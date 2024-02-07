@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/AliFarooq/Downloads/282a2e.png" added="2024-02-05T21:58:22.530901Z" modified="2024-02-05T22:03:35.301415Z" visited="2024-02-05T21:58:22.531270Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-02-05T21:58:22.531500Z" count="1"/>
+          <bookmark:application name="abiword" exec="&apos;abiword %u&apos;" modified="2024-02-05T22:03:35.301413Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/AliFarooq/Downloads/373b41.png" added="2024-02-05T22:05:43.952887Z" modified="2024-02-05T22:05:43.952894Z" visited="2024-02-05T22:05:43.952888Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-02-05T22:05:43.952891Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/AliFarooq/Downloads/c5c8c6.png" added="2024-02-05T22:08:58.698223Z" modified="2024-02-05T22:08:58.698233Z" visited="2024-02-05T22:08:58.698225Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-02-05T22:08:58.698230Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/AliFarooq/Downloads/memory.png" added="2024-02-06T08:03:06.004076Z" modified="2024-02-06T08:03:06.004087Z" visited="2024-02-06T08:03:06.004077Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-02-06T08:03:06.004082Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

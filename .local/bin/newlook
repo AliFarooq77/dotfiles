@@ -1,0 +1,10 @@
+#!/bin/bash
+
+wall=$(find /home/AliFarooq/wallpapers -type f -name "*.jpg" -o -name "*.png" | shuf -n 1)
+
+#setting the wallpaper
+xwallpaper --zoom ${wall}
+
+#generate color scheme
+wal -c
+wal -i ${wall}
